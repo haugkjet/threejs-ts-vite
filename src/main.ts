@@ -1,7 +1,6 @@
 import * as THREE from "three";
 
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
-import { TextureLoader } from "three/src/loaders/TextureLoader.js";
 
 const scene = new THREE.Scene();
 
